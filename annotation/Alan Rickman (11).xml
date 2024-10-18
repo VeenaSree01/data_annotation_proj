@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Alan Rickman</folder>
+	<filename>Alan Rickman (11).jpg</filename>
+	<path>C:\Users\veena\Documents\GitHub\data_annotation_proj\Alan Rickman\Alan Rickman (11).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>1357</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>alan rickman</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>42</xmin>
+			<ymin>59</ymin>
+			<xmax>1000</xmax>
+			<ymax>1184</ymax>
+		</bndbox>
+	</object>
+</annotation>
